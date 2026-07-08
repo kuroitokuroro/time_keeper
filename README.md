@@ -4,7 +4,7 @@ This project is for personal learning purposes.
 
 All assets used in this project are either original creations by the author or sourced from free-to-use materials.
 
-こちらは、作業時間を管理できるツールです。
+<h2>作業時間を管理するツール</h2>
 
 タイトル：タイムキーパー<br>
 ジャンル：作業の開始と終了を管理するツール<br>
